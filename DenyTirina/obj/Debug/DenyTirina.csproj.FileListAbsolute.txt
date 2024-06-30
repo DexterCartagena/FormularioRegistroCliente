@@ -1,0 +1,15 @@
+D:\C#\DenyTirina\DenyTirina\bin\Debug\DenyTirina.exe.config
+D:\C#\DenyTirina\DenyTirina\bin\Debug\DenyTirina.exe
+D:\C#\DenyTirina\DenyTirina\bin\Debug\DenyTirina.pdb
+D:\C#\DenyTirina\DenyTirina\obj\Debug\DenyTirina.csproj.AssemblyReference.cache
+D:\C#\DenyTirina\DenyTirina\obj\Debug\DenyTirina.Properties.Resources.resources
+D:\C#\DenyTirina\DenyTirina\obj\Debug\DenyTirina.csproj.GenerateResource.cache
+D:\C#\DenyTirina\DenyTirina\obj\Debug\DenyTirina.csproj.CoreCompileInputs.cache
+D:\C#\DenyTirina\DenyTirina\obj\Debug\DenyTirina.exe
+D:\C#\DenyTirina\DenyTirina\obj\Debug\DenyTirina.pdb
+D:\C#\DenyTirina\DenyTirina\obj\Debug\DenyTirina.FrmCliente.resources
+D:\C#\DenyTirina\DenyTirina\bin\Debug\CapaDeNegocio.dll
+D:\C#\DenyTirina\DenyTirina\bin\Debug\CapaDeNegocio.pdb
+D:\C#\DenyTirina\DenyTirina\obj\Debug\DenyTirina.csproj.CopyComplete
+D:\C#\DenyTirina\DenyTirina\bin\Debug\CapaDeDatos.dll
+D:\C#\DenyTirina\DenyTirina\bin\Debug\CapaDeDatos.pdb
